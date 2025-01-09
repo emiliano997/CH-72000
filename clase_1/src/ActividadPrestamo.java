@@ -9,5 +9,8 @@ public class ActividadPrestamo {
 
     System.out.println("Interes a pagar: " + interesAPagar);
 
+    // Escribir todos sus datos
+    // Nombre, apellido, edad, estaTrabajando, puesto, salario
+
   }
 }
