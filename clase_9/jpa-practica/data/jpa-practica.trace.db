@@ -1,0 +1,4 @@
+2025-02-06 09:19:58.066015-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIDOMICILIO" no encontrada
+Table "CLIDOMICILIO" not found; SQL statement:
+SELECT * FROM CLIDOMICILIO ENTE [42102-232]
